@@ -826,7 +826,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   password: 1234
-  clickSound: {fileID: 8300000, guid: 2f957ac17c163ac4b8894e35fe5c40bd, type: 3}
+  clickSound: {fileID: 8300000, guid: 15335fdbf7dcea24b9679b47738dd97d, type: 3}
   openSound: {fileID: 8300000, guid: 81eee127ce631c340b2738eea973b1d8, type: 3}
   errorSound: {fileID: 8300000, guid: 0bf35e56ce38d9642ad61dc897dd77e4, type: 3}
   OnEntryAllowed:
